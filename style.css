@@ -4,7 +4,7 @@
   }
   
   body {
-    background-color: #d6e7cc;
+    background-color: #ddbfd0;
   }
   
   .container {
@@ -48,13 +48,13 @@
   .operator:hover,
   .clear:hover {
     transition: 0.2s ease-in;
-    background-color: #5e092c;
+    background-color: #7f88d8;
     color: white;
     transform: scale(1.04);
   }
   
   .operator:hover {
-    background-color: #962642;
+    background-color: #807fd8;
   }
   
   input[type="text"] {
